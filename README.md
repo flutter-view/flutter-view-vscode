@@ -1,6 +1,10 @@
 # flutter-view-vscode
 
-This extension allows you to inspect **flutter-view** pug files and see the generated dart code behind it, as well as navigate to it. This makes navigating between Pug source and generated Dart code quicker and more pleasant.
+![Flutter view in VSCode animation](https://raw.githubusercontent.com/flutter-view/website/master/images/flutter-view-demo-anim.gif)
+
+VS Code support for **[flutter-view](https://flutter-view.io)**. Flutter-view allows you to lay out your Flutter apps faster, using Pug/HTML and Sass/CSS.
+
+This extension allows you to inspect pug files and see the generated dart code behind it, as well as navigate to it. This makes navigating between Pug source and generated Dart code quicker and more pleasant.
 
 ## Features
 
@@ -17,7 +21,6 @@ Use this extension in combination with the [Project Links extension](https://mar
 ## Known Issues
 
 Not all Pug elements will be linking to code, because not all elements are translated into Dart code.
-Examples are *array* and *slot*.
 
 ## Release Notes
 
