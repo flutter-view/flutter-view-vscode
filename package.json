@@ -2,7 +2,7 @@
     "name": "flutter-view-vscode",
     "displayName": "flutter-view-vscode",
     "description": "Flutter-View tooling extension",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "publisher": "blueneogeo",
     "repository": {
         "url": "https://github.com/flutter-view/flutter-view-vscode",
